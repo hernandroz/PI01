@@ -29,3 +29,5 @@ Instalación de FastAPI: Se comienza instalando FastAPI en un entorno de desarro
 Creación del archivo principal: Se crea un archivo Python principal para la API: main.py. Se importa las bibliotecas necesarias, incluyendo FastAPI, y se crea una instancia de la aplicación FastAPI.
 
 Definición de rutas y endpoints: Se define las rutas y los endpoints de la API. Se utiliza decoradores FastAPI.
+
+Made by: Hernán Hernández Rodríguez
